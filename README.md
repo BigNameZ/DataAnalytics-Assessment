@@ -37,4 +37,16 @@ This repository contains SQL queries for a data analytics assessment tailored fo
 - **Challenge 1:** Understanding the relationships between tables.
   - **Resolution:** Used aliases and comments to clarify table relationships.
 - **Challenge 2:** Writing efficient SQL queries.
-  - **Resolution:** Broke down each query into smaller, manageable steps.
+  - **Resolution:** Broke down each query into smaller, manageable steps, and researched for errors encountered in the process.
+
+*Repository Structure*
+
+DataAnalytics-Assessment/
+│
+├── Assessment_Q1.sql
+├── Assessment_Q2.sql
+├── Assessment_Q3.sql
+├── Assessment_Q4.sql
+│
+└── README.md
+
